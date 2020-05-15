@@ -1,1 +1,2 @@
-# Harsh
+# synchronousBallMovement
+Ball moving synchronously
